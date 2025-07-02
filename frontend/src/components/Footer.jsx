@@ -12,16 +12,16 @@ const Footer = () => {
 			<div className="flex items-center justify-start w-full p-4 flex-wrap">
 				<div className="flex flex-col min-w-[280px] w-[33%] my-3">
 					<h1 className="font-semibold mb-2">Contact</h1>
-					<span>Akash Deep</span>
-					<span>Patna, Bihar</span>
-					<span>Pincode - 801303</span>
+					<span>VP</span>
+					<span>Rajkot,Gujarat</span>
+					<span>Pincode - 360001</span>
 					<span>
 						<Link
-							to={"mailto:contact.akashdeep023@gmail.com"}
+							to={"mailto:mr.jadeja.0088@gmail.com"}
 							target="_blank"
 							className="hover:text-blue-600 hover:underline"
 						>
-							contact.akashdeep023@gmail.com
+							mr.jadeja.0088@gmail.com
 						</Link>
 					</span>
 				</div>
@@ -61,7 +61,7 @@ const Footer = () => {
 					</span>
 				</div>
 				<div className="flex flex-col min-w-[280px] w-[33%] my-3">
-					<h1 className="font-semibold mb-2">Links</h1>
+					{/* <h1 className="font-semibold mb-2">Links</h1>
 					<span>
 						<a
 							className="hover:text-blue-600 hover:underline"
@@ -101,11 +101,11 @@ const Footer = () => {
 						>
 							E-Mail
 						</a>
-					</span>
+					</span> */}
 				</div>
 			</div>
 			<h1 className="font-bold">
-				All rights reserved 2024 &copy; ChatApp
+				All rights reserved 2025 &copy; ChatApp
 			</h1>
 		</div>
 	);
